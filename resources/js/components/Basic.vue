@@ -2,6 +2,7 @@
     <EasyDataTable
       :headers="headers"
       :items="items"
+      border-cell
     />
   </template>
 
